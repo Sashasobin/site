@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2? family= Joan & display=swap');
+
+.menu {
+    font-size: 35px;
+    /*размер шрифта*/
+    font-family: 'Joan', serif;
+    /*выбор шрифта*/
+    display: flex;
+    /*перевод в блочно строчный режим */
+    justify-content: space-between;
+    /*размещение блоков */
+}
+
+a {
+    text-decoration: none;
+    /*отмена подчёркивание */
+    color: inherit;
+    /*цвет шрифта наследуется */
+    font-size: 35px;
+    /*размер шрифта */
+}
